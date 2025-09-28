@@ -1,72 +1,73 @@
+# Radium Alacritty Theme
 
 [colors.primary]
-foreground = "#abb2bf"
-background = "#1e2229"
-dim_foreground = "#5c6370"
-bright_foreground = "#c8ccd4"
+foreground = "#d4d4d5"
+background = "#0a0d11"
+dim_foreground = "#525559"
+bright_foreground = "#d4d4d5"
 
 [colors.cursor]
-text = "#282c34"
-cursor = "#abb2bf"
+text = "#0a0d11"
+cursor = "#d4d4d5"
 
 [colors.vi_mode_cursor]
-text = "#282c34"
-cursor = "#61afef"
+text = "#0a0d11"
+cursor = "#7ab0df"
 
 [colors.search.matches]
-foreground = "#abb2bf"
-background = "#3e4451"
+foreground = "#d4d4d5"
+background = "#191d22"
 
 [colors.search.focused_match]
-foreground = "#282c34"
-background = "#e5c07b"
+foreground = "#0a0d11"
+background = "#ffe59e"
 
 [colors.hints.start]
-foreground = "#abb2bf"
-background = "#3e4451"
+foreground = "#d4d4d5"
+background = "#191d22"
 
 [colors.hints.end]
-foreground = "#c8ccd4"
-background = "#3e4451"
+foreground = "#d4d4d5"
+background = "#191d22"
 
 [colors.line_indicator]
 foreground = "None"
 background = "None"
 
 [colors.footer_bar]
-foreground = "#abb2bf"
-background = "#21252b"
+foreground = "#d4d4d5"
+background = "#191d22"
 
 [colors.selection]
-text = "#abb2bf"
-background = "#3e4451"
+text = "#d4d4d5"
+background = "#191d22"
 
 [colors.normal]
-black   = "#282c34"
-red     = "#e06c75"
-green   = "#98c379"
-yellow  = "#e5c07b"
-blue    = "#61afef"
-magenta = "#c678dd"
-cyan    = "#56b6c2"
-white   = "#abb2bf"
+black   = "#0a0d11"
+red     = "#f87070"
+green   = "#27d99e"
+yellow  = "#ffe59e"
+blue    = "#7ab0df"
+magenta = "#c397d8"
+cyan    = "#50cad2"
+white   = "#525559"
 
 [colors.bright]
-black   = "#5c6370"
-red     = "#e06c75"   # Some variants use #be5046
-green   = "#98c379"
-yellow  = "#e5c07b"
-blue    = "#61afef"
-magenta = "#c678dd"
-cyan    = "#56b6c2"
-white   = "#c8ccd4"
+black   = "#191d22"
+red     = "#ff8e8e"
+green   = "#79dcaa"
+yellow  = "#ffeda6"
+blue    = "#87bdec"
+magenta = "#b68acb"
+cyan    = "#63b3ad"
+white   = "#d4d4d5"
 
 [colors.dim]
-black   = "#21252b"
-red     = "#be5046"
-green   = "#7da869"
-yellow  = "#d19a66"
-blue    = "#528bff"
-magenta = "#a678dd"
-cyan    = "#4aa5b7"
-white   = "#9aa2ad"
+black   = "#111519"
+red     = "#c85c5c"
+green   = "#2e9a76"
+yellow  = "#eecb84"
+blue    = "#6896c1"
+magenta = "#ab83bc"
+cyan    = "#49a5ac"
+white   = "#424447"

@@ -1,29 +1,24 @@
+# Radium Theme for Omarchy
 
-# One Dark Pro Theme for Omarchy
+![Omarchy Radium](./assets/title.png)
 
-![Omarchy One Dark Pro](./assets/title.png)
+A collection of configuration files to bring the Radium colorscheme to [Omarchy](https://omarchy.org/) and its related applications.
 
-A One Dark Pro theme for [Omarchy](https://omarchy.org/), inspired by the popular One Dark Pro editor color scheme.
+### Screenshots:
 
-### Dark:
-
-![Omarchy One Dark Pro Screenshot](./assets/screen1.png)
-![Omarchy One Dark Pro Screenshot 2](./assets/screen2.png)
+![Omarchy Radium Screenshot](./assets/screen1.png)
+![Omarchy Radium Screenshot 2](./assets/screen2.png)
 
 ### Prompt:
 
-The [Starship](https://starship.rs) prompt is based off [gruvbox-rainbow Preset](https://starship.rs/presets/gruvbox-rainbow). Currently you will need to copy [starship.toml](./starship.toml) to your `~/.config` folder.
+The included [Starship](https://starship.rs) prompt provides a matching look and feel. To use it, copy the `starship.toml` file from this repository to your `~/.config` folder.
 
 ### Font:
-I quite enjoy the [SauceCodePro](https://www.nerdfonts.com/font-downloads) Nerd Font
-
-### Tmux:
-There is also a One Dark Pro theme for Tmux, available at [tmux-one-dark-pro](https://github.com/odedlaz/tmux-onedark-theme)
+This theme was designed with the [SauceCodePro](https://www.nerdfonts.com/font-downloads) Nerd Font in mind.
 
 ## Installation
 
 Use the built-in installation script (available after version 1.4.0):
 
-Dark:
 ```bash
-omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro-theme
+omarchy-theme-install [https://github.com/color-schemes/omarchy-radium](https://github.com/color-schemes/omarchy-radium)
