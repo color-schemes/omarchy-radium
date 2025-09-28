@@ -21,4 +21,4 @@ This theme was designed with the [SauceCodePro](https://www.nerdfonts.com/font-d
 Use the built-in installation script (available after version 1.4.0):
 
 ```bash
-omarchy-theme-install [https://github.com/color-schemes/omarchy-radium](https://github.com/color-schemes/omarchy-radium)
+omarchy-theme-install https://github.com/color-schemes/omarchy-radium
