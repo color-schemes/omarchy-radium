@@ -1,5 +1,7 @@
 # Radium Theme for Omarchy
 
+![Omarchy Radium](./assets/title.png)
+
 A collection of configuration files to bring the Radium colorscheme to [Omarchy](https://omarchy.org/) and its related applications.
 
 ### Screenshots:
